@@ -10,3 +10,15 @@ D:\Projects\UltimateManager\UltimateManager\UltimateManager\obj\Debug\netcoreapp
 D:\Projects\UltimateManager\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.AssemblyInfo.cs
 D:\Projects\UltimateManager\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.dll
 D:\Projects\UltimateManager\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.pdb
+D:\Projects\UltimateManager\UltimateManager\bin\Debug\netcoreapp2.0\UltimateManager.deps.json
+D:\Projects\UltimateManager\UltimateManager\bin\Debug\netcoreapp2.0\UltimateManager.runtimeconfig.json
+D:\Projects\UltimateManager\UltimateManager\bin\Debug\netcoreapp2.0\UltimateManager.runtimeconfig.dev.json
+D:\Projects\UltimateManager\UltimateManager\bin\Debug\netcoreapp2.0\UltimateManager.dll
+D:\Projects\UltimateManager\UltimateManager\bin\Debug\netcoreapp2.0\UltimateManager.pdb
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.csprojResolveAssemblyReference.cache
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.csproj.CoreCompileInputs.cache
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.AssemblyInfoInputs.cache
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.AssemblyInfo.cs
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.dll
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UltimateManager.pdb
+D:\Projects\UltimateManager\UltimateManager\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
